@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">A passionate middle developer from India</h3>
 
