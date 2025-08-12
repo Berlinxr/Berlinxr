@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onur</h1>
-<h3 align="center">A passionate middle developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 - 🔭 I’m currently working on [cfd](https://berlinxr.cfd)
 
