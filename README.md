@@ -54,10 +54,6 @@
 
 ###
 
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/97338881?v=4"  />
-
-###
-
 <div align="left">
   <a href="https://open.spotify.com/user/zveldsuhst7iqqadp1k5wtu7a">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=zveldsuhst7iqqadp1k5wtu7a&count=1" alt="Spotify recently played"  />
