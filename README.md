@@ -1,9 +1,9 @@
 ## Hi there 👋
 ```fix
-+ To report problems, email: report@berlinxr.cfd
++ To report problems, email: report@auvic.cc
 ```
 ```fix
-+ To make a business offer, email: onur@berlinxr.cfd
++ To make a business offer, email: onur@auvic.cc
 ```
 [![wakatime](https://wakatime.com/badge/user/e7475aba-912c-4836-bf34-0a44578e46d2.svg)](https://wakatime.com/@e7475aba-912c-4836-bf34-0a44578e46d2)
 
